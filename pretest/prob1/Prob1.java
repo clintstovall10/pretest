@@ -8,6 +8,11 @@ public class Prob1 {
 		//whole let and kind of rushed through them. I remember them slightly,
 		//just can't remember the syntax without looking it up of course.
 		
+		
+		//Also it took me a while to do this, but overall pretty satisfied. Whenever,
+		//I first read the problem, I really thought "there is no way Im getting this"
+		//But after some trial on error, I managed to pull it off.
+		
 		int arr1 [] = {4,7,2,9,1};
 		
 		int length = arr1.length;
