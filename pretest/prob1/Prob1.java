@@ -5,7 +5,7 @@ public class Prob1 {
 	public static void main(String[] args) {
 		
 		//During programming 1 last semester we did not cover methods a
-		//whole let and kind of rushed through them. I remember them slightly,
+		//whole lot and kind of rushed through them. I remember them slightly,
 		//just can't remember the syntax without looking it up of course.
 		
 		
